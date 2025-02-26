@@ -41,7 +41,7 @@ export const Burger = styled("div")`
   display: none;
 
   svg {
-    fill: #2e186a;
+    fill: #17AA9C;
   }
 `;
 
@@ -59,7 +59,7 @@ export const Menu = styled("h5")`
 
 export const CustomNavLinkSmall = styled(NavLink)`
   font-size: 1.2rem;
-  color: #18216d;
+  color: #17AA9C;
   transition: color 0.2s ease-in;
   margin: 0.5rem 2rem;
 
@@ -70,7 +70,7 @@ export const CustomNavLinkSmall = styled(NavLink)`
 
 export const Label = styled("span")`
   font-weight: 500;
-  color: #404041;
+  color: #17AA9C;
   text-align: right;
   display: flex;
   justify-content: space-between;

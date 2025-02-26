@@ -1,3 +1,21 @@
-<svg viewBox="0 0 130 40" xmlns="http://www.w3.org/2000/svg">
-  <text y="30" font-family="Motiva Sans Bold, sans-serif" fill="#18216d" font-size="43px" font-weight="700">Landy</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 550">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #17aa9c;
+      }
+
+      .cls-2 {
+        fill: #335e6b;
+      }
+
+      .cls-3 {
+        fill: #2e8089;
+      }
+    </style>
+  </defs>
+  <polyline class="cls-2" points="269.3 297.71 411.87 543.3 589.95 291.99"/>
+  <circle class="cls-3" cx="268.25" cy="278.17" r="184.12"/>
+  <polygon class="cls-1" points="104.05 13.03 10.05 543.3 411.87 543.3 104.05 13.03"/>
 </svg>
