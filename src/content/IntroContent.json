@@ -1,12 +1,12 @@
 {
-  "title": "Landing page template for developers & startups",
-  "text": "Beautifully designed templates using React.js, ant design and styled-components! Save weeks of time and build your landing page in minutes.",
+  "title": "Transforming Ideas into Digital Reality",
+  "text": "Welcome to Byte Right Now - Your trusted partner in innovative software solutions. We deliver cutting-edge applications and digital experiences for global clients, turning complex challenges into seamless solutions.",
   "button": [
     {
-      "title": "Explore"
+      "title": "Our Services"
     },
     {
-      "title": "Learn more",
+      "title": "Get in Touch",
       "color": "#fff"
     }
   ]
