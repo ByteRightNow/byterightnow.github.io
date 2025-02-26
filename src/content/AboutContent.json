@@ -1,15 +1,15 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Reliable, Fast & Prominent",
+  "text": "We are a team of professionals who are dedicated to providing you with the best services. Our goal is to help you succeed and grow your business.",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "title": "Why Us?",
+      "content": "Get our A team to help you with your project. We have the best people in the world make your idea into reality.",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "What we offer?",
+      "content": "We have been in the industry for over 5 years and have worked with some of the biggest companies in the world.",
       "icon": "notes.svg"
     }
   ]
