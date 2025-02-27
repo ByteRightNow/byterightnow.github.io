@@ -1,0 +1,22 @@
+{
+    "title": "Our Technology Expertise",
+    "text": "We leverage cutting-edge technologies to deliver robust and scalable solutions for our global clients.",
+    "technologies": [
+      {
+        "category": "Frontend",
+        "stack": ["React", "Next.js", "TypeScript", "Redux", "Styled Components"]
+      },
+      {
+        "category": "Backend",
+        "stack": ["Node.js", "Express", "Python", "Django", "PostgreSQL", "MongoDB"]
+      },
+      {
+        "category": "Mobile",
+        "stack": ["React Native", "Flutter", "iOS", "Android"]
+      },
+      {
+        "category": "Cloud & DevOps",
+        "stack": ["AWS", "Google Cloud", "Docker", "Kubernetes", "CI/CD"]
+      }
+    ]
+  }
