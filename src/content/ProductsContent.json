@@ -1,0 +1,54 @@
+{
+  "title": "Our Software Products",
+  "subtitle": "Discover our range of enterprise software solutions designed for modern businesses",
+  "products": [
+    {
+      "id": 1,
+      "title": "BytePOS",
+      "description": "A comprehensive point-of-sale solution with inventory management, sales tracking, and customer relationship features for retail businesses.",
+      "type": "Point of Sale",
+      "image": "byte_pos.png",
+      "clientName": "Metro Retail Group"
+    },
+    {
+      "id": 2,
+      "title": "ByteInventory",
+      "description": "Advanced inventory management system with real-time tracking, automated reordering, and detailed analytics for supply chain optimization.",
+      "type": "Inventory",
+      "image": "byte_inventory.png",
+      "clientName": "Global Logistics Inc."
+    },
+    {
+      "id": 3,
+      "title": "ByteHR",
+      "description": "Complete human resource management solution with employee tracking, payroll, benefits administration, and performance evaluation tools.",
+      "type": "HR Management",
+      "image": "byte_hr.png",
+      "clientName": "Enterprise Solutions Ltd"
+    },
+    {
+      "id": 4,
+      "title": "ByteCRM",
+      "description": "Customer relationship management platform with lead tracking, campaign management, and integrated communication tools for sales teams.",
+      "type": "CRM",
+      "image": "crm-mockup.jpg",
+      "clientName": "Tech Innovators"
+    },
+    {
+      "id": 5,
+      "title": "ByteERP",
+      "description": "Enterprise resource planning solution that integrates accounting, inventory, sales, and operations into a single comprehensive platform.",
+      "type": "ERP",
+      "image": "erp-mockup.jpg",
+      "clientName": "Manufacturing Excellence"
+    },
+    {
+      "id": 6,
+      "title": "ByteAnalytics",
+      "description": "Business intelligence and analytics tools providing real-time data visualization, custom reporting, and actionable insights for decision makers.",
+      "type": "Analytics",
+      "image": "analytics-mockup.jpg",
+      "clientName": "Data Driven Co."
+    }
+  ]
+}

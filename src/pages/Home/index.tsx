@@ -3,9 +3,10 @@ import IntroContent from "../../content/IntroContent.json";
 import MiddleBlockContent from "../../content/MiddleBlockContent.json";
 import AboutContent from "../../content/AboutContent.json";
 import MissionContent from "../../content/MissionContent.json";
-import ProductContent from "../../content/ProductContent.json";
+import ProductsContent from "../../content/ProductsContent.json";
 import ContactContent from "../../content/ContactContent.json";
 import { TechnologyBlock } from "../../components/Technology";
+import ProductBlock from "../../components/ProductBlock";
 import TechnologyContent from "../../content/TechnologyContent.json";
 
 
@@ -47,13 +48,11 @@ const Home = () => {
         icon="product-launch.svg"
         id="mission"
       />
-      {/* <ContentBlock
-        direction="left"
-        title={ProductContent.title}
-        content={ProductContent.text}
-        icon="waving.svg"
-        id="product"
-      /> */}
+      <ProductBlock 
+        title={ProductsContent.title}
+        subtitle={ProductsContent.subtitle}
+        products={ProductsContent.products}
+      />
       <Container>
       <TechnologyBlock content={TechnologyContent} />
     </Container>
